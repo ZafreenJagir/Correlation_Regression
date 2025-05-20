@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+# Date : 14/03/2025
+# Register Number : 212223040252
+# Name : Zafreen J
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
